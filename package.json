@@ -1,0 +1,35 @@
+{
+  "name": "fib-lp",
+  "version": "1.0.0",
+  "description": "Landing page with Vercel Analytics",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtmelchiades/fib-lp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtmelchiades/fib-lp/issues"
+  },
+  "homepage": "https://github.com/vtmelchiades/fib-lp#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.6",
+    "typescript": "^7.0.2"
+  }
+}
